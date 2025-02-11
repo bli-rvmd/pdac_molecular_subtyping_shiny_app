@@ -1,0 +1,12 @@
+name: pdac_molecular_subtyping
+title: pdac_molecular_subtyping
+username: bli@revmed.com
+account: bli@revmed.com
+server: posit-profiler.revmed.com
+hostUrl: https://posit-profiler.revmed.com/rstudio-controlled-connect/__api__
+appId: 238
+bundleId:
+url: https://posit-profiler.revmed.com:443/rstudio-controlled-connect/content/a0db24a0-8973-4c8e-a7ef-0ffac7db8249/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
